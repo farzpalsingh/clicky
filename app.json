@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Clicky",
+    "icon": "./res/retro_logo.png",
+    "splash":{
+      "backgroundColor": "#000000"
+    },
+    "version": "1.0.0",
+    "slug": "com-codegaragetech-anubhav",
+    "sdkVersion": "26.0.0",
+    "ios": {
+      "bundleIdentifier": "com.codegaragetech.clicky"
+    },
+    "android": {
+      "package": "com.codegaragetech.clicky"
+    }
+  }
+}
